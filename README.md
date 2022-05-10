@@ -1,5 +1,7 @@
 ## ambalytics - Bibliometric Analyses
 
+![ambalytics logo](ambalytics-logo.png)
+
 ambalytics was a startup that emerged from a scientific project at the Institute for Databases and Information Systems at the University of Ulm and the Institute for Clinical Epidemiology and Biometry at the University of Würzburg from 2019 to 2021. 
 
 ### ambalytics Trends
