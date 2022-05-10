@@ -11,6 +11,10 @@ Discover brand new publications just hours after publishing.
 
 [https://trends.ambalytics.com/](https://trends.ambalytics.com/)
 
+### Technology
+
+Please see: [bibliometrics.md](bibliometrics.md)
+
 ### Team
 
 #### Klaus Kammerer
