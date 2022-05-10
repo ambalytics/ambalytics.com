@@ -23,7 +23,18 @@ In his life prior to amba he was working as an architect for interdisciplinary o
 is the technical head at ambalytics.
 When coding he likes to follow grids and patterns, structures and rules. In his private life though he enjoys nothing more than nature and outdoor sports. Opposites do attract!
 
+### Testimonials
+
+> "We use ambalyticsMIRA as the basis of our research work in order to get a concrete overview of research fronts. AmbalyticsMIRA offers companies the opportunity to quickly get a comprehensive overview of specific subject areas. I am looking forward to being able to use the software to its full extent soon."
+Prof. Dr. Daniel R.A. Schallmo
+
 ### GET IN TOUCH
+
+https://www.twitter.com/ambalytics
+https://www.linkedin.com/company/ambalytics
+https://www.facebook.com/ambalytics
+https://www.instagram.com/ambalytics
+
 
 ambalytics
 Postfach 3173
