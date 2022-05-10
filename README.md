@@ -9,7 +9,7 @@ ambalytics was a startup that emerged from a scientific project at the Institute
 ambalyticsTrends gives you the latest social media publication trends.
 Discover brand new publications just hours after publishing.
 
-https://trends.ambalytics.com/
+[https://trends.ambalytics.com/](https://trends.ambalytics.com/)
 
 ### Team
 
@@ -32,10 +32,10 @@ Prof. Dr. Daniel R.A. Schallmo
 
 ### GET IN TOUCH
 
-https://www.twitter.com/ambalytics
-https://www.linkedin.com/company/ambalytics
-https://www.facebook.com/ambalytics
-https://www.instagram.com/ambalytics
+- https://www.twitter.com/ambalytics
+- https://www.linkedin.com/company/ambalytics
+- https://www.facebook.com/ambalytics
+- https://www.instagram.com/ambalytics
 
 
 ambalytics
