@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## ambalytics - Bibliometric Analyses
 
-You can use the [editor on GitHub](https://github.com/ambalytics/ambalytics.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ambalytics was a startup that emerged from a scientific project at the Institute for Databases and Information Systems at the University of Ulm and the Institute for Clinical Epidemiology and Biometry at the University of Würzburg from 2019 to 2021. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ambalytics Trends
 
-### Markdown
+ambalyticsTrends gives you the latest social media publication trends.
+Discover brand new publications just hours after publishing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://trends.ambalytics.com/
 
-```markdown
-Syntax highlighted code block
+### Team
 
-# Header 1
-## Header 2
-### Header 3
+#### Klaus Kammerer
+is the conceptual head at ambalytics.
+Next to his visionary work at amba he likes to… well… mmmh… he works a lot! His interests are widely spread though and he knows something about everything. He is currently finishing his PhD in computer science.
 
-- Bulleted
-- List
+#### Patrick Kohl
+is the economical head at ambalytics.
+In his life prior to amba he was working as an architect for interdisciplinary offices based in Amsterdam, Beijing, New York and Southern Germany. Patrick likes playing rugby and exploring culinary arts around the globe…
 
-1. Numbered
-2. List
+#### Manuel Göster
+is the technical head at ambalytics.
+When coding he likes to follow grids and patterns, structures and rules. In his private life though he enjoys nothing more than nature and outdoor sports. Opposites do attract!
 
-**Bold** and _Italic_ and `Code` text
+### GET IN TOUCH
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ambalytics/ambalytics.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ambalytics
+Postfach 3173
+89021 Ulm, Germany
+t +49 176 70787989
+m hello@ambalytics.com
