@@ -48,8 +48,5 @@ Prof. Dr. Daniel R.A. Schallmo
 - https://www.instagram.com/ambalytics
 
 
-ambalytics
-Postfach 3173
-89021 Ulm, Germany
-t +49 176 70787989
-m hello@ambalytics.com
+
+[Imprint](imprint.md) | [Privacy Policy](privacy-policy.md)
