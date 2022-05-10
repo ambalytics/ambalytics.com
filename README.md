@@ -11,9 +11,15 @@ Discover brand new publications just hours after publishing.
 
 [https://trends.ambalytics.com/](https://trends.ambalytics.com/)
 
+![ambalytics trends](ambalytics-trends.png)
+
 ### Technology
 
 Please see: [bibliometrics.md](bibliometrics.md)
+
+We also have published a paper:
+
+> [Kammerer, K., Göster, M., Reichert, M., and Pryss, R. (2021). Ambalytics: A scalable and distributed system architecture concept for bibliometric network analyses. Future Internet, 13(8), 203.](https://www.mdpi.com/1999-5903/13/8/203)
 
 ### Team
 
